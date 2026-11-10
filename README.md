@@ -1,7 +1,6 @@
 # Moralis API Dashboard
 
 A full-stack web application that provides a dashboard interface for testing Moralis Web3 API endpoints. 
-The application consists of a Node.js backend server and a React frontend dashboard.
 
 ## 🚀 Features
 
