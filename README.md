@@ -147,7 +147,7 @@ Response: { "success": true, "data": [...] }
 - cors - Cross-origin requests
 
 ### Frontend
-- React 18 - UI framework
+- React - UI framework
 - No additional dependencies (vanilla React)
 
 ## Screenshots
